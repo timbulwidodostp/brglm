@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p brglm Bias reduced estimators for binary response models (Biased-reduced logit glm regression) Use brglm With STATA 18
