@@ -1,6 +1,8 @@
 # brglm
 Bias reduced estimators for binary response models (Biased-reduced logit glm regression) Use brglm With STATA 18
 
+https://www.youtube.com/watch?v=kXl3duXSKTc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
